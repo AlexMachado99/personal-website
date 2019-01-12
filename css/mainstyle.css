@@ -1,0 +1,19 @@
+.bg-primary{
+	background-color: #001D4A !important;
+}
+
+.text-primary{
+	color: #E28413 !important;
+}
+
+a{
+	color: #E28413;
+}
+
+.social-icons a:hover {
+    background-color: #E28413;
+}
+
+.dev-icons .list-inline-item i:hover {
+    color: #E28413;
+}
