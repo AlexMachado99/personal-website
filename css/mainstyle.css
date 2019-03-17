@@ -17,3 +17,9 @@ a{
 .dev-icons .list-inline-item i:hover {
     color: #E28413;
 }
+
+.sprott-logo {
+	margin-top: 50px;
+    height: auto;
+    max-width: 340px;
+}
